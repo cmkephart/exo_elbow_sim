@@ -1,0 +1,6 @@
+# Tested with Python 3.12, mujoco 3.16, gymnasium 1.4, stable-baselines3 2.9
+mujoco>=3.0
+gymnasium>=1.0
+stable-baselines3>=2.4
+matplotlib
+numpy
